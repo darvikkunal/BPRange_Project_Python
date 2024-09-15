@@ -14,6 +14,8 @@ BP Range is a Python-based GUI application that helps users check their blood pr
 - **Programming Language**: Python
 - **GUI Framework**: Tkinter
 
+![Logo](https://github.com/darvikkunal/BPRange_Project_Python/blob/main/GUI_Image.png)
+
 ## Creating the GUI
 The GUI is created using Tkinter with input fields, radio buttons, and a button to check the blood pressure. A menu bar is also added for additional options.
 
